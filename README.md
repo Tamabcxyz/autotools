@@ -11,6 +11,6 @@ Run ```autoreconf -i``` same effect with 3 commands above ^^.
 The repository now includes configure.ac, Makefile.in, and configure.           
 
 #### User Workflow:
-Run ./configure to generate a Makefile from Makefile.in based on the system.                
+Run ```./configure``` to generate a Makefile from Makefile.in based on the system.                
 Run ```make``` to compile the project.              
 Run ```make install``` to install the binaries.             
